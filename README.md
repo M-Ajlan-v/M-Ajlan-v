@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# <span style="color: #00FF00;">AJLAN V</span>
+# <span style="color: #00FF00;">MUHAMMED AJLAN V</span>
 
 ### Flutter Developer
 
@@ -28,7 +28,7 @@ Building thoughtful apps for real-world problems.
 
 ## ⚡ ABOUT ME
 
-I'm **Ajlan V**, a Flutter developer focused on building thoughtful,
+I'm **Muhammed Ajlan V**, a Flutter developer focused on building thoughtful,
 practical applications for real-world problems.
 
 I enjoy turning ideas into working products, exploring modern web
