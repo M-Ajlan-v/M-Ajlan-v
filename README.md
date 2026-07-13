@@ -15,7 +15,7 @@ Building thoughtful apps for real-world problems.
 <br>
 
 <img
-  src="./assets/profile.png"
+  src="./assets/prof.png"
   alt="Ajlan V"
   width="500"
 />
