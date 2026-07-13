@@ -21,13 +21,13 @@ Building thoughtful apps for real-world problems.
 
 <table>
 <tr>
-<td width="46%" align="center" valign="top">
+<td width="46%" align="center" valign="middle">
 
-<img
-  src="./assets/profile.png"
-  alt="Ajlan V"
-  width="100%"
-/>
+  <img
+    src="./assets/profile.png"
+    alt="Ajlan V"
+    width="100%"
+  />
 
 </td>
 
