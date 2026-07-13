@@ -44,8 +44,6 @@ technologies, and continuously improving through code.
 Currently expanding my skills beyond mobile development into
 **Angular, web development, AI tools, and automation**.
 
-<br>
-
 ## 🛠 TECH STACK
 
 <p>
