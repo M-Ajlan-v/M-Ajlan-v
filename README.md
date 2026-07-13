@@ -4,11 +4,9 @@
 
 <div align="center">
 
-# AJLAN V
+# <h2>AJLAN V</h2>
 
 ### Flutter Developer
-
-`Code.` `Learn.` `Build.` `Repeat.`
 
 📍 Wayanad, Kerala, India
 
