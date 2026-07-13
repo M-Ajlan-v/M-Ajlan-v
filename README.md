@@ -133,12 +133,9 @@ Building ideas. Learning continuously. Improving through code.
   <img src="https://img.shields.io/badge/Instagram-Ajlan_V-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 `Code. Learn. Build. Repeat.`
 
-<br><br>
-
-<sub>Built with curiosity and code.</sub>
 
 </div>
