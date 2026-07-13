@@ -109,46 +109,36 @@ development.
 
 </div>
 
----
-
-## 📊 GITHUB
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=M-Ajlan-v&show_icons=true&hide_border=true&theme=github_dark"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ajlan-v&layout=compact&hide_border=true&theme=github_dark"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=M-Ajlan-v&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING AMAZING
+### LET'S CONNECT
 
 Building ideas. Learning continuously. Improving through code.
 
 <br>
 
 <a href="https://github.com/M-Ajlan-v">
-  <img src="https://img.shields.io/badge/GitHub-M--Ajlan--v-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-M--Ajlan--v-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Ajlan_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Ajlan_V-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
 
 `Code. Learn. Build. Repeat.`
+
+<br><br>
+
+<sub>Built with curiosity and code.</sub>
 
 </div>
