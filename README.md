@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# <h1 ><font color="#00FF00">AJLAN V</font></h1>
+# <span style="color: #00FF00;">AJLAN V</span>
 
 ### Flutter Developer
 
