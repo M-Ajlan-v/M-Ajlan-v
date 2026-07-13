@@ -1,4 +1,3 @@
-
 <!-- =========================================================
      AJLAN V — GITHUB PROFILE
 ========================================================== -->
@@ -15,23 +14,19 @@
 
 Building thoughtful apps for real-world problems.
 
+<br>
+
+<img
+  src="./assets/profile.png"
+  alt="Ajlan V"
+  width="500"
+/>
+
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="46%" align="center" valign="middle">
-
-  <img
-    src="./assets/profile.png"
-    alt="Ajlan V"
-    width="100%"
-  />
-
-</td>
-
-<td width="54%" valign="top">
+---
 
 ## ⚡ ABOUT ME
 
@@ -44,26 +39,28 @@ technologies, and continuously improving through code.
 Currently expanding my skills beyond mobile development into
 **Angular, web development, AI tools, and automation**.
 
+---
+
 ## 🛠 TECH STACK
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,angular,html,css,python" />
 </p>
+
+<div align="center">
 
 **Flutter** • **Dart** • **Angular**  
 **HTML** • **CSS** • **Python (Basics)**
 
-<br>
+</div>
+
+---
 
 ## 🚀 CURRENTLY
 
 - Learning **Angular** and building web experiences
 - Exploring **AI tools & automation**
 - Building, learning, and improving through code
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -128,11 +125,7 @@ development.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ajlan-v&layout=compact&hide_border=true&theme=github_dark"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=M-Ajlan-v&theme=github-dark-blue&hide_border=true"
