@@ -1,16 +1,106 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="48%" valign="top">
 
-<!--
-**M-Ajlan-v/M-Ajlan-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
++----------------------------------------------------+
+@@@@@@@%@@@@@@@@@%%%@@@%%@@@@@@@@@@%%%%%%%%%#####**#
+@@@@@@@@@@@%%%%@@%%@@@#%@@@%@@@@@@@#@@%%@%%%%%%%%##%
+%@@@@@@@@@@@@%%@@@@@@%%@@@@@@@@%%%%#%@%%@@%%%%##%%%#
+%@@@@@%#%%%%%%%@@@@@@@@@@@@@@@@@@@@@%%###%%#*##%%@%%
+@%@#%@@@@%%@@##%@@%%%@@@@@@@@%%%%@@@@@%%#++**#*#%@%%
+@@@@@@@@@@@@@@@@@%####%@@@%#***+=+#%%@@@@****##*##*#
+@@@@@@@@@@@@%#%@@%%%###%@*+#%%%#*++++*#%%%%#*#%%####
+%%@%%####%%*****%%#*%##%#+*#%%%@#+%@@%*#*#%#########
+%@@%###%%%#**##*=++=*#*##**+++*+=:+*****#*++*****##%
+@@@@@%%%###++#%#**####**%%##%%%%%#*+==+##+**###*+###
+%%##@@@%%%*=+%%*+***++++#%%%%#%%%%%%##+##%%##%##*###
+%%@@@@@%%%*#%%%#=+*##%#**%@%%##%#*#%%##%%%%%%%%%%%%%
+@@@@@%@@@@@%@@%#*+++=****#%%@@@@@%#%@@%%@@@@@%%%@##*
+@@@@@@@@#**==--::.::-=+**##%%%%%#*===*%#%%%%@@%%#*#*
+@@@@@@#-:::-:-:::::::--=+**####*+=-:...::-=**#**++*+
+@@@@@#:----=---:-------====++==--:.........-=+****++
+@@@@@=-===++-==---:---==-+=-=--::::.....:......-+*+*
+@@@@+=+==++*=+==-=-----==-+-:---:::.....::......-*#%
+%@@%=-++==+++**+===----==-++::--:::::..:---::...:%*+
+@@@+====+===**#+===--====-+*=.:--::==::-+==-:::.:+++
+@@%--==-==--+#*++++===++=-+#+-.--::=-::+#+--::..:+++
+@@+=--==--=-+%###**+=-+*+-+#**-:-:----=#=--:....:*+=
+@@==+++==--=*@@@%###+-+*+-+*##*=:.:-==**-:......-*+-
+@@======--==*#%@@%%#*=+*+---+##*+++***#=::......-*##
+%#=======---:----========:.:++#****##%+-:::::...-=--
+**+=++**++====------:::::::-*****++==**-:---::..----
+**++*****++******++++++++++*@%%%#**+==+=--:::..::::-
+*#*+##%################%*+**#*+==-:--=:---=-...---==
+##*==+++*%#####%%%@@@@@%==+++=+====+===-===-:.:=====
+++=-----*#*####%%%%%@@%*+****+++++++*+=+=+=---++++++
+------=*#***###%#####%%%##%%%%%##########**+++***+++
+***+***++**###******+++*####%%%%%%%%@@@@%==+*****###
+##%%%%*++************+=====++++****######++*****####
+#%@@@%*+***##*****+++=============+++***#**#######%#
+@@@@@@*****++***+++===--===++**##%%@@@@@@%####%%%##%
+@@@@@@+++++**++++++**##%%@@@@@@@@@@@@@@@@@@@@@@@@%%%
+@@@@@@*###%#%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
++----------------------------------------------------+
+</pre>
 
-Here are some ideas to get you started:
+</td>
+<td width="52%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>AJLAN V</h1>
+
+<h3>Flutter Developer</h3>
+
+<p>📍 Wayanad, Kerala, India</p>
+
+<blockquote>
+<b>Building thoughtful apps for real-world problems.</b>
+</blockquote>
+
+<hr>
+
+<h3>⌁ TECH STACK</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,angular,html,css,python" alt="Flutter, Dart, Angular, HTML, CSS and Python" />
+</p>
+
+<p>
+  Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; Angular<br>
+  HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; Python <sub>(Basics)</sub>
+</p>
+
+<hr>
+
+<h3>🚀 CURRENTLY</h3>
+
+<p>
+› Learning Angular & building web experiences<br>
+› Exploring AI tools & automation<br>
+› Building, learning, and improving through code
+</p>
+
+<hr>
+
+<h3>▣ FEATURED PROJECTS</h3>
+
+<h4>💚 <a href="https://github.com/M-Ajlan-v/cashlog">CashLog</a></h4>
+<p>Manage personal cashflows — privately, on-device.</p>
+
+<h4>💜 <a href="https://github.com/M-Ajlan-v/paymal">PayMal</a></h4>
+<p>Flutter UI implementation inspired by a modern wallet design.</p>
+
+<h4>❤️ <a href="https://github.com/M-Ajlan-v/makemytrip">MakeMyTrip Clone</a></h4>
+<p>Angular recreation of the MakeMyTrip home experience.</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/M-Ajlan-v"><b>github.com/M-Ajlan-v</b></a>
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <code>Code. Learn. Build. Repeat.</code>
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <b>Let's build something amazing!</b>
+</p>
